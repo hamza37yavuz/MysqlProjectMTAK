@@ -1,0 +1,13 @@
+--------------------------------------------------------------
+*** Q8 ***
+isbn	book_name	rating
+9780008262396	4.50 from Paddington	0.0
+9786052116685	Kirk Bela	5.0
+9786059389068	Zoopolis	3.0
+9786059389204	Universite ve Otesi - Genc Yetiskinler Icin Hayat Becerileri	3.0
+9786059389396	Leopold'un Sabunu	2.0
+9786059389457	Keynes Hayek-Modern Ekonomiyi Tanimlayan Catisma	4.5
+9786059389754	Viyana Nokta	3.0
+9789752105058	Koskteki Esrar	4.0
+9789752110588	Hercule'un On Iki Gorevi	4.0
+--------------------------------------------------------------
